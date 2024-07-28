@@ -13,7 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/LC {NUM} - Leetcode Template.md",
+                "file": "leetcode/LC 217 - Contains Duplicate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "951a3d4938c3485e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leetcode/LC 242 - Valid Anagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4adf8d521c4ea676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "992915765ca9045e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leetcode/LC 217 - Contains Duplicate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/LC {NUM} - Leetcode Template.md",
+                "file": "leetcode/LC 217 - Contains Duplicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/LC {NUM} - Leetcode Template.md",
+                "file": "leetcode/LC 217 - Contains Duplicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/LC {NUM} - Leetcode Template.md"
+                "file": "leetcode/LC 217 - Contains Duplicate.md"
               }
             }
           }
@@ -146,15 +177,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90fe63d79941e65c",
+  "active": "d897f116666437b0",
   "lastOpenFiles": [
-    "README.md",
+    "Untitled.md",
+    "leetcode",
+    "leetcode/LC 242 - Valid Anagram.md",
+    "leetcode/LC 217 - Contains Duplicate.md",
     "templates/LC {NUM} - Leetcode Template.md",
+    "README.md",
     "Home.md",
     "untitled folder",
     "KnowledgeBase/README.md",
     "KnowledgeBase",
-    "templates",
-    "Untitled.md"
+    "templates"
   ]
 }

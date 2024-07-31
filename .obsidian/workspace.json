@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/LC 242 - Valid Anagram.md",
+                "file": "leetcode/LC 49 - Group Anagrams.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#leetcode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/LC 217 - Contains Duplicate.md",
+                "file": "leetcode/LC 49 - Group Anagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode/LC 217 - Contains Duplicate.md",
+                "file": "leetcode/LC 49 - Group Anagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode/LC 217 - Contains Duplicate.md"
+                "file": "leetcode/LC 49 - Group Anagrams.md"
               }
             }
           }
@@ -177,13 +177,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d897f116666437b0",
+  "active": "951a3d4938c3485e",
   "lastOpenFiles": [
-    "Untitled.md",
-    "leetcode",
     "leetcode/LC 242 - Valid Anagram.md",
     "leetcode/LC 217 - Contains Duplicate.md",
+    "leetcode/LC 49 - Group Anagrams.md",
+    "leetcode/LC 001 - Two Sum.md",
     "templates/LC {NUM} - Leetcode Template.md",
+    "Untitled.md",
+    "leetcode",
     "README.md",
     "Home.md",
     "untitled folder",

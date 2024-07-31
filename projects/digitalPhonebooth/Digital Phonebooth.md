@@ -16,16 +16,16 @@ The final step was playing the audio clip through the phone's handset and while 
 
 Our first competition was at the state level, the phone booth was built out of an old server rack and I mounted the phone inside. The tablet was mounted above to display the map and what the user had dialed. It wasn't easy to transport, but with a pickup truck and some manpower we got it to the competition in one piece. We won the state level competition and preparations began for nationals.
 
-![[phoneBoothv1.jpg|400]]
+![[assets/phoneBoothv1.jpg|400]]
 
 While we loved the idea of repurposing a server rack for our phone both, reality stepped in when we realized we would have to transport the piece to Georgia on a plane. We started from scratch and began to rebuild the phone booth in a way that would let us flat pack it for transport. 
 
 On top of changes to the booth itself, I made various improvements to the interactable portion of the project. We acquired a wall mounted phone to fit the theme better, I connected the hang up functionality to reset dial input and end a call preemptively, and I added a slide show to each audio clip to provide some visual context.
 
-![[phonev2_1.jpg|300]]
-![[phonev2_2.jpg|300]]
-![[phonev2_3.jpg|500]]
-![[phoneBoothv2.jpg||400]]
+![[assets/phonev2_1.jpg|300]]
+![[assets/phonev2_2.jpg|300]]
+![[assets/phonev2_3.jpg|500]]
+![[assets/phoneBoothv2.jpg||400]]
 
 While we didn't end up on the podium, we had the opportunity to show our project off to a large number of people. It was incredibly satisfying when someone stepped in and realized that the phone wasn't just there for decoration and that it had been functionally implemented. 
 
